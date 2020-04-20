@@ -8,6 +8,6 @@ object Test {
     print("正在开发v2.0.0..........")
     print("发布v2.0.0")
     print("开发3.0.0")
-
+    print("wangguanglei 已提交了该代码到远程服务器")
   }
 }
